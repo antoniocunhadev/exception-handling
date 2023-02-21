@@ -1,4 +1,4 @@
-#Criando fluxo de exceção
+# Criando fluxo de exceção
 
 Muitas vezes pensamos que o funcionamento do sistema é algo "óbvio", que não tem como errar. Mas precisamos prever até mesmo os comportamentos inesperados.
 
